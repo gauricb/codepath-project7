@@ -8,6 +8,8 @@ Time spent: **10** hours spent in total
 
 ## Required Features
 
+*GIF URL: https://imgur.com/gallery/ELpZSX8*
+
 The following **required** functionality is completed:
 
 - [x] **A create form allows users to add new cremates**
